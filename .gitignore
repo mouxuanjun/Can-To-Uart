@@ -1,0 +1,8 @@
+# cmake编译项
+cmake-build-*/
+
+# clion相关配置
+.idea/
+
+# vscode相关配置
+.vscode/
